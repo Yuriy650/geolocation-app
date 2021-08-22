@@ -25,7 +25,8 @@ display: flex;
     }
   }
   form{
-    flex-wrap: wrap;
+    display:flex;
+    justify-content: center;
     max-width: 620px;
     margin-bottom: 0.5rem;
   }
@@ -52,7 +53,7 @@ display: flex;
   }
 &__form-btn{
   width: 120px;
-  height: 44px;
+  height: 46px;
   background-color: #D22C32;
   color: #FFFFFF;
   font-family: 'Roboto';
@@ -82,11 +83,16 @@ display: flex;
     box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
-    height: 40px;
+    height: 44px;
     width: 489px;
-    padding-top: 3px;
     margin: 0;
     border: none;
+    color: #353535;
+    font-family: 'Roboto';
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
+
   }
   @media (max-width: 1000px){
     &__form-input{
