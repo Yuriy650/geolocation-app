@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/geolocation-app/static/css/main.82acb8c5.chunk.css",
+    "main.css": "/geolocation-app/static/css/main.833eaedc.chunk.css",
     "main.js": "/geolocation-app/static/js/main.d491ff69.chunk.js",
     "main.js.map": "/geolocation-app/static/js/main.d491ff69.chunk.js.map",
     "runtime-main.js": "/geolocation-app/static/js/runtime-main.ab97585a.js",
@@ -12,7 +12,7 @@
     "static/js/3.5122807f.chunk.js.map": "/geolocation-app/static/js/3.5122807f.chunk.js.map",
     "index.html": "/geolocation-app/index.html",
     "static/css/2.3e6d51b9.chunk.css.map": "/geolocation-app/static/css/2.3e6d51b9.chunk.css.map",
-    "static/css/main.82acb8c5.chunk.css.map": "/geolocation-app/static/css/main.82acb8c5.chunk.css.map",
+    "static/css/main.833eaedc.chunk.css.map": "/geolocation-app/static/css/main.833eaedc.chunk.css.map",
     "static/js/2.217a864a.chunk.js.LICENSE.txt": "/geolocation-app/static/js/2.217a864a.chunk.js.LICENSE.txt",
     "static/media/index.css": "/geolocation-app/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.ab97585a.js",
     "static/css/2.3e6d51b9.chunk.css",
     "static/js/2.217a864a.chunk.js",
-    "static/css/main.82acb8c5.chunk.css",
+    "static/css/main.833eaedc.chunk.css",
     "static/js/main.d491ff69.chunk.js"
   ]
 }
